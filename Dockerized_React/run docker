@@ -1,0 +1,1 @@
+docker run -p 3000:80 fs_exp_9.1_react_app
